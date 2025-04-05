@@ -1,0 +1,19 @@
+{
+  "name": "mobimeta",
+  "version": "1.0.0",
+  "description": "![Build Status](https://github.com/arpcard/mobio/workflows/CI/badge.svg)\r # Mobilome Ontology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpcard/mobio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpcard/mobio/issues"
+  },
+  "homepage": "https://github.com/arpcard/mobio#readme"
+}
